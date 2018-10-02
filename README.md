@@ -14,6 +14,7 @@ To operate the code, one should have the following Python modules installed:
 
 Details on how to generate results described in the paper can be found in the following example.
 
-An example of ANS analyzing the MNIST dataset can be found in 
+An example of applying ANS on the MNIST dataset can be found in 
+
 ans_mnist_01.py
 

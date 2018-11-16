@@ -6,7 +6,6 @@ https://arxiv.org/abs/1711.07871
 
 
 This ANS code contains the function that computes Autoencoder Node Saliency written in Python 2.7. 
-ans.py
 
 To operate the code, one should have the following Python modules installed:
   - numpy

@@ -20,5 +20,5 @@ mnist_example.ipynb
 
 ## Reference:
 Autoencoder Node Saliency: Selecting Relevant Latent Representations
-https://arxiv.org/abs/1711.07871
+https://doi.org/10.1016/j.patcog.2018.12.015
 

@@ -1,5 +1,5 @@
-# ANS
-Autoencoder Node Saliency (ANS)
+# Autoencoder Node Saliency (ANS)
+
 The ANS code performs autoencoder node saliency algorithm that helps the researchers in the following
 -	To understand what an autoencoder has learned through its unsupervised learning process.  
 -	To rank hidden nodes according to their capability of performing a learning task
